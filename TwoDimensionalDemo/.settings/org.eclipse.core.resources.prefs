@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/ypt/twodimensionaldemo/lib/activity/CaptureActivity.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/camera/CameraConfigurationManager.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/camera/CameraManager.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/decode/DecodeFormatManager.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/decode/DecodeHandler.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/encoding/EncodingUtils.java=UTF-8
+encoding//src/com/ypt/twodimensionaldemo/lib/utils/Utils.java=UTF-8
